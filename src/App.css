@@ -1,0 +1,16 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  text-align: center;
+}
+body {
+  background-image: url("https://eskipaper.com/images/solid-color-wallpaper-1.jpg");
+}
+.fc {
+  height: 600px;
+  width: 700px;
+}
